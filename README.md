@@ -28,7 +28,7 @@ https://github.com/Sherlin-Preethi .
 Specific Roles:
 
 Shiny Grace F - Algorithm identification, Encryption module, RSA implementation, Decryption module, Report generation
-Sherlin Preethi J - Input file generation, Key generation module, F-Function module, Debugging and testing, GUI implementation, Cloud implementation.
+Sherlin Preethi J - Input file generation, Key generation module, F-Function module, Debugging and testing, GUI implementation, Cloud implementation, Report generation.
 
 Keywords: Cloud computing, Light-weight cryptographic,Multiplicative homomorphic ,data security
 
