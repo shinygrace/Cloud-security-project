@@ -21,9 +21,9 @@ https://doi.org/10.1016/j.ijin.2022.04.001.
 
 No code was taken from the internet.
 Every code was together framed by the user
-https://github.com/shinygrace
+https://github.com/shinygrace (me)
 and
-https://github.com/Sherlin-Preethi (me).
+https://github.com/Sherlin-Preethi .
 
 Specific Roles:
 
